@@ -1,6 +1,7 @@
 Data
 Plots
 .venv
+.ipynb_checkpoints
 .idea
 .ipynb_checkpoints/
 *.pyc
