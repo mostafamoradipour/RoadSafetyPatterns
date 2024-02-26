@@ -8,8 +8,8 @@ RoadSafetyPatterns is a Python project aimed at analyzing road accident data fro
 - Predictive Modeling: Develops predictive models to anticipate potential accident hotspots, contributing factors, and casualty severity.
 ### Technologies Used
 - Python
-- Pandas
 - NumPy
+- Pandas
+- GeoPandas
+- Shapely
 - Matplotlib
-- Seaborn
-- Scikit-Learn
